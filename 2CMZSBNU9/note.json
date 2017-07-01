@@ -1,0 +1,53 @@
+{
+  "paragraphs": [
+    {
+      "text": "%",
+      "user": "anonymous",
+      "dateUpdated": "Jul 1, 2017 6:47:42 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {},
+        "editorMode": "ace/mode/undefined"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1498915043446_435641683",
+      "id": "20170701-184723_682104547",
+      "dateCreated": "Jul 1, 2017 6:47:23 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "/statistics-week/week-stats",
+  "id": "2CMZSBNU9",
+  "angularObjects": {
+    "2CP2ERMEM:shared_process": [],
+    "2CN77ZCG5:shared_process": [],
+    "2CMM7SMR5:shared_process": [],
+    "2CMGQ3VNH:shared_process": [],
+    "2CJNTSF6W:shared_process": [],
+    "2CM4FV9C1:shared_process": [],
+    "2CMBGTSS4:shared_process": [],
+    "2CNMAVYM6:shared_process": [],
+    "2CN3NX6QF:shared_process": [],
+    "2CNYXEUS4:shared_process": [],
+    "2CNTE81D5:shared_process": [],
+    "2CNJZ84ZP:shared_process": [],
+    "2CNMFVD35:shared_process": [],
+    "2CJK47Z2E:shared_process": [],
+    "2CKWHS5R2:shared_process": [],
+    "2CNHDEJXJ:existing_process": [],
+    "2CNFPD6WS:shared_process": [],
+    "2CP7USSMT:shared_process": [],
+    "2CKPKEAM2:shared_process": [],
+    "2CN8XYEYS:existing_process": [],
+    "2CJVSWBHA:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
